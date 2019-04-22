@@ -1,0 +1,38 @@
+=== Started 2019-04-16T14-57-06-107 ===
+[INFO ][14:57:06] 12 bad words loaded
+[WARN ][14:57:06] User account "Local User" disabled
+[INFO ][14:57:06] 3 user records loaded.
+[INFO ][14:57:06] 0 IP ban records loaded.
+[INFO ][14:57:06] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][14:57:06] WebSocket: ws
+[ERROR][14:57:06] Stats Server: listen EACCES 0.0.0.0:88
+[INFO ][14:57:06] Listening on port 8080
+[INFO ][14:57:06] Current game mode is Free For All
+[NONE ][14:57:06]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][14:57:07] CONNECTED 10.240.1.220:44958, origin: "http://quadogar.000webhostapp.com"
+[NONE ][14:57:10] CONNECTED 10.240.0.222:54752, origin: "http://localhost"
+[NONE ][15:20:15] LOGIN        10.240.0.222:54752 as "In-game Administrator"
+[NONE ][15:24:53] DISCONNECTED 10.240.0.222:54752, code: 1001, reason: "", name: "{mau7} "
+[NONE ][15:24:56] CONNECTED 10.240.0.103:53224, origin: "http://localhost"
+[NONE ][15:24:57] DISCONNECTED 10.240.0.103:53224, code: 1005, reason: "", name: ""
+[NONE ][15:25:12] CONNECTED 10.240.0.87:38908, origin: "http://localhost"
+[NONE ][15:27:13] DISCONNECTED 10.240.0.87:38908, code: 1001, reason: "", name: "Alec"
+[NONE ][15:36:23] CONNECTED 10.240.0.103:60896, origin: "http://localhost"
+[NONE ][15:36:35] LOGIN        10.240.0.103:60896 as "In-game Administrator"
+[NONE ][15:36:47] LOGOUT       10.240.0.103:60896 as "In-game Administrator"
+[NONE ][15:37:40] DISCONNECTED 10.240.0.103:60896, code: 1005, reason: "", name: "{mau3} "
+[NONE ][15:39:03] CONNECTED 10.240.0.185:39246, origin: "http://localhost"
+[NONE ][15:39:06] DISCONNECTED 10.240.0.185:39246, code: 1005, reason: "", name: ""
+[NONE ][16:05:56] CONNECTED 10.240.0.87:38810, origin: "http://localhost"
+[NONE ][16:09:01] DISCONNECTED 10.240.0.87:38810, code: 1001, reason: "", name: ""
+[NONE ][16:17:30] CONNECTED 10.240.1.220:37366, origin: "http://quadogar.000webhostapp.com"
+[NONE ][16:17:36] DISCONNECTED 10.240.1.220:37366, code: 1005, reason: "", name: ""
+[NONE ][16:49:17] CONNECTED 10.240.1.97:46712, origin: "http://quadogar.000webhostapp.com"
+[NONE ][16:49:48] LOGIN        10.240.1.97:46712 as "In-game Administrator"
+[NONE ][16:55:56] DISCONNECTED 10.240.1.97:46712, code: 1005, reason: "", name: "{mau1} Alec"
+[NONE ][16:56:11] DISCONNECTED 10.240.1.220:44958, code: 1006, reason: "", name: ""

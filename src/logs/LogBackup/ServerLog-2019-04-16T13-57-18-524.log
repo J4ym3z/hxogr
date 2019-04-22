@@ -1,0 +1,27 @@
+=== Started 2019-04-16T13-53-08-304 ===
+[INFO ][13:53:08] 12 bad words loaded
+[WARN ][13:53:08] User account "Local Administrator" disabled
+[WARN ][13:53:08] User account "Local User" disabled
+[INFO ][13:53:08] 2 user records loaded.
+[INFO ][13:53:08] 0 IP ban records loaded.
+[INFO ][13:53:08] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][13:53:08] WebSocket: ws
+[ERROR][13:53:08] Stats Server: listen EACCES 0.0.0.0:88
+[INFO ][13:53:08] Listening on port 8080
+[INFO ][13:53:08] Current game mode is Free For All
+[NONE ][13:53:08]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][13:53:08] CONNECTED 10.240.0.227:42282, origin: "http://localhost"
+[NONE ][13:53:09] CONNECTED 10.240.0.239:42746, origin: "http://quadogar.000webhostapp.com"
+[NONE ][13:53:40] CONNECTED 10.240.0.103:49124, origin: "http://quadogar.000webhostapp.com"
+[NONE ][13:53:40] DISCONNECTED 10.240.0.103:49124, code: 1001, reason: "", name: ""
+[NONE ][13:53:47] CONNECTED 10.240.0.227:42762, origin: "http://quadogar.000webhostapp.com"
+[NONE ][13:54:17] LOGIN        10.240.0.227:42282 as "In-game Moderator (Noodly)"
+[NONE ][13:54:27] LOGIN        10.240.0.227:42762 as "In-game Moderator (Mau)"
+[NONE ][13:54:43] CONNECTED 10.240.0.227:43320, origin: "http://quadogar.000webhostapp.com"
+[NONE ][13:57:09] >chat Last restart
+[NONE ][13:57:13] >chat yes

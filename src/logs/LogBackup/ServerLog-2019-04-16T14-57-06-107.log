@@ -1,0 +1,64 @@
+=== Started 2019-04-16T14-00-55-469 ===
+[INFO ][14:00:55] 12 bad words loaded
+[WARN ][14:00:55] User account "Local User" disabled
+[INFO ][14:00:55] 3 user records loaded.
+[INFO ][14:00:55] 0 IP ban records loaded.
+[INFO ][14:00:55] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][14:00:55] WebSocket: ws
+[ERROR][14:00:55] Stats Server: listen EACCES 0.0.0.0:88
+[INFO ][14:00:55] Listening on port 8080
+[INFO ][14:00:55] Current game mode is Free For All
+[NONE ][14:00:55]   __  __       _ _   _  ___                        _____    _ _ _           _    _   __    _ 
+ |  \/  |_   _| | |_(_)/ _ \  __ _  __ _ _ __     | ____|__| (_) |_ ___  __| |  / | / /_  / |
+ | |\/| | | | | | __| | | | |/ _` |/ _` | '__|____|  _| / _` | | __/ _ \/ _` |  | || '_ \ | |
+ | |  | | |_| | | |_| | |_| | (_| | (_| | | |_____| |__| (_| | | ||  __/ (_| |  | || (_) || |
+ |_|  |_|\__,_|_|\__|_|\___/ \__, |\__,_|_|       |_____\__,_|_|\__\___|\__,_|  |_(_)___(_)_|
+                             |___/                                                           
+[NONE ][14:00:57] CONNECTED 10.240.0.239:47656, origin: "http://localhost"
+[NONE ][14:00:57] CONNECTED 10.240.0.88:43258, origin: "http://quadogar.000webhostapp.com"
+[NONE ][14:00:57] CONNECTED 10.240.0.227:47842, origin: "http://quadogar.000webhostapp.com"
+[NONE ][14:01:04] LOGIN        10.240.0.239:47656 as "In-game Administrator"
+[NONE ][14:05:04] DISCONNECTED 10.240.0.239:47656, code: 1001, reason: "", name: "An unnamed cell"
+[NONE ][14:07:56] DISCONNECTED 10.240.0.227:47842, code: 1001, reason: "", name: ""
+[NONE ][14:08:25] CONNECTED 10.240.1.97:45114, origin: "http://localhost"
+[NONE ][14:09:55] CONNECTED 10.240.1.97:46108, origin: "http://quadogar.000webhostapp.com"
+[NONE ][14:13:06] DISCONNECTED 10.240.1.97:45114, code: 1001, reason: "", name: "An unnamed cell"
+[NONE ][14:13:08] CONNECTED 10.240.1.220:45374, origin: "http://localhost"
+[NONE ][14:13:10] DISCONNECTED 10.240.1.220:45374, code: 1005, reason: "", name: ""
+[NONE ][14:13:11] CONNECTED 10.240.1.220:45410, origin: "http://localhost"
+[NONE ][14:13:11] CONNECTED 10.240.0.90:53650, origin: "http://localhost"
+[NONE ][14:13:11] DISCONNECTED 10.240.0.90:53650, code: 1006, reason: "", name: ""
+[NONE ][14:14:16] DISCONNECTED 10.240.1.97:46108, code: 1001, reason: "", name: ""
+[NONE ][14:14:18] CONNECTED 10.240.1.220:46094, origin: "http://quadogar.000webhostapp.com"
+[NONE ][14:16:01] DISCONNECTED 10.240.1.220:46094, code: 1001, reason: "", name: "{mau1} alec"
+[NONE ][14:16:19] LOGIN        10.240.1.220:45410 as "In-game Administrator"
+[NONE ][14:18:50] >pl
+[NONE ][14:18:50] 
+Current players: 42
+[NONE ][14:18:50] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][14:18:50]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK            
+[NONE ][14:18:50] ────────────────────────────────────────────────────────────────────────────────
+[NONE ][14:18:50]      22 | 10.240.0.88     | 6 | ----------------------------DEAD OR NOT PLAYING
+[NONE ][14:18:50]     127 | 10.240.1.220    | 6 |     1 |   5595 |  3222,  2293 | {mau1} Alec    
+[NONE ][14:23:41] >pl
+[NONE ][14:23:41] 
+Current players: 42
+[NONE ][14:23:41] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][14:23:41]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK            
+[NONE ][14:23:41] ────────────────────────────────────────────────────────────────────────────────
+[NONE ][14:23:41]      22 | 10.240.0.88     | 6 | ----------------------------DEAD OR NOT PLAYING
+[NONE ][14:23:41]     127 | 10.240.1.220    | 6 | ----------------------------DEAD OR NOT PLAYING
+[NONE ][14:44:41] DISCONNECTED 10.240.1.220:45410, code: 1006, reason: "", name: "{mau1} Alec"
+[NONE ][14:44:48] CONNECTED 10.240.0.227:56736, origin: "http://localhost"
+[NONE ][14:45:29] LOGIN        10.240.0.227:56736 as "In-game Administrator"
+[NONE ][14:46:29] DISCONNECTED 10.240.0.227:56736, code: 1001, reason: "", name: "{mau1} Alec"
+[NONE ][14:57:04] >pl
+[NONE ][14:57:04] 
+Current players: 21
+[NONE ][14:57:04] Do "playerlist m" or "pl m" to list minions
+
+[NONE ][14:57:04]  ID     | IP              | P | CELLS | SCORE  |   POSITION   | NICK            
+[NONE ][14:57:04] ────────────────────────────────────────────────────────────────────────────────
+[NONE ][14:57:04]      22 | 10.240.0.88     | 6 | ----------------------------DEAD OR NOT PLAYING
